@@ -146,7 +146,7 @@ public class MessageService implements Service {
                     // Sales list of the given type
                     List<Sale> saleList = null;
 
-                    // Doesn't contains product, lets add it
+                    // Doesn't contain product, lets add it
                     if(!m_sales.containsKey(productPlural)) {
                         saleList = new ArrayList<>();
                         m_sales.put(productPlural, saleList);
