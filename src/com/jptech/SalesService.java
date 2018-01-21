@@ -5,7 +5,7 @@ import com.jptech.service.MessageService;
 import java.io.BufferedReader;
 import java.io.FileReader;
 
-public class Main {
+public class SalesService {
 
     public static void main(String[] args) {
 	    // Message service
