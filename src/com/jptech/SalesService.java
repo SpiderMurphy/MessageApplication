@@ -1,6 +1,7 @@
 package com.jptech;
 
 import com.jptech.service.MessageService;
+import com.jptech.service.Service;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -9,7 +10,7 @@ public class SalesService {
 
     public static void main(String[] args) {
 	    // Message service
-        MessageService messageService = new MessageService();
+        Service messageService = new MessageService();
 
         try{
             System.out.println(System.getProperty("user.dir"));
