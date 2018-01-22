@@ -27,7 +27,7 @@ Lemon at 200p
 20 sales of Lemon at 300p each
 Potato at 500p
 Multiply 10p Potatoes
-300 sales of Dog at 10000p each
+300 sales of Dogs at 10000p each
 T shirt at 20p
 30 sales of T shirts at 10p each
 Gold apple juice at 150p
@@ -57,4 +57,4 @@ Lemon at 200p
 20 sales of Lemon at 300p each
 Potato at 500p
 Multiply 10p Potatoes
-300 sales of Dog at 10000p each
+300 sales of Dogs at 10000p each
