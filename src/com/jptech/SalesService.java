@@ -13,8 +13,6 @@ public class SalesService {
         Service messageService = new MessageService();
 
         try{
-            System.out.println(System.getProperty("user.dir"));
-
             // Setup service
             messageService.setup();
 
